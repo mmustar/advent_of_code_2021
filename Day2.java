@@ -6,7 +6,7 @@ import java.util.List;
 public class Day2 {
 
 	public static void part1() throws IOException {
-		String path = "C:\\Users\\L307921\\Downloads\\AoC_2021\\day2_1_input.txt";
+		String path = "C:\\Users\\XXXX\\Downloads\\AoC_2021\\day2_1_input.txt";
 		List<String> commands = Utils.fileToArrayString(path);
 		
 		int horizontal =0;
@@ -39,7 +39,7 @@ public class Day2 {
 	}
 	
 	public static void part2() throws IOException {
-		String path = "C:\\Users\\L307921\\Downloads\\AoC_2021\\day2_1_input.txt";
+		String path = "C:\\Users\\XXXX\\Downloads\\AoC_2021\\day2_1_input.txt";
 		List<String> commands = Utils.fileToArrayString(path);
 		
 		int horizontal =0;

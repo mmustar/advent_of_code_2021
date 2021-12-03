@@ -6,7 +6,7 @@ import java.util.List;
 public class Day1 {
 	
 	public static void part1() throws IOException {
-		String path = "C:\\Users\\L307921\\Downloads\\AoC_2021\\day1_1_input.txt";
+		String path = "C:\\Users\\XXXX\\Downloads\\AoC_2021\\day1_1_input.txt";
 		List<Integer> measures = Utils.fileToArrayInt(path);
 		
 		System.out.println("Number of lines in file : " + measures.size());
@@ -23,7 +23,7 @@ public class Day1 {
 	}
 	
 	public static void part2() throws IOException {
-		String path = "C:\\Users\\L307921\\Downloads\\AoC_2021\\day1_1_input.txt";
+		String path = "C:\\Users\\XXXX\\Downloads\\AoC_2021\\day1_1_input.txt";
 		List<Integer> measures = Utils.fileToArrayInt(path);
 		
 		System.out.println("Number of lines in file : " + measures.size());

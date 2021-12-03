@@ -7,7 +7,7 @@ import java.util.List;
 public class Day3 {
 
 	public static void part1() throws IOException {
-		String path = "C:\\Users\\L307921\\Downloads\\AoC_2021\\day3_input.txt";
+		String path = "C:\\Users\\XXXX\\Downloads\\AoC_2021\\day3_input.txt";
 		List<String> numbers = Utils.fileToArrayString(path);
 		
 		String gamma = "";
@@ -69,7 +69,7 @@ public class Day3 {
 	}
 	
 	public static void part2() throws IOException {
-		String path = "C:\\Users\\L307921\\Downloads\\AoC_2021\\day3_input.txt";
+		String path = "C:\\Users\\XXXX\\Downloads\\AoC_2021\\day3_input.txt";
 		List<String> C02 = Utils.fileToArrayString(path);
 		List<String> oxygen = new ArrayList<>(C02);
 		
